@@ -1,4 +1,4 @@
-<h1>DCTE & Temp Tableso</h1>
+<h1>CTE & Temp Tableso</h1>
 
 <h2>Description</h2>
 Here's a CTE and temp Table that I created 
