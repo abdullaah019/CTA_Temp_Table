@@ -1,1 +1,1 @@
-# CTA_Temp_Table
+# CTE_Temp_Table
